@@ -1,3 +1,7 @@
 Zmiany Dominik
 Zmiany od oliwiki
+<<<<<<< HEAD
 Zmiiana nr 2 dominik
+=======
+zmiany oliwki
+>>>>>>> e4c186b63725e8fc82b41d80a658fe470cc7684b
